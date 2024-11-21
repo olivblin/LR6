@@ -49,8 +49,8 @@
 
 2.На ветке branch1 были сделаны некоторые изменения, после чего прописана следующие команды:
 
-```git add mergefile.txt
-git commit -m '2'```
+```git add mergefile.txt```
+```git commit -m '2'```
 3.Переключение на ветку master:
 
 ```git checkout master```
