@@ -51,15 +51,19 @@
 
 ```git add mergefile.txt```
 ```git commit -m '2'```
+
 3.Переключение на ветку master:
 
 ```git checkout master```
+
 4.Слияние веток master и branch1:
 
 ```git merge branch1```
+
 5.Конфликт:
 
 ![](/img/conflict.png)
+
 6.Разрешила конфликт в файле mergefile.txt при помощи "Merge Resolve" в VSCode (приняла версию из ветки branch1):
 
 ![](/img/solve.png)
