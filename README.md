@@ -97,6 +97,27 @@
 
 ![](/img/final.png)
 
+# Список всех использованных комманд
+
+```
+git clone
+git pull
+git push
+git add
+git commit -m
+git status
+git checkout
+git checkout -b
+git branch
+git branch -d
+git reset --hard
+git merge
+git log --all
+git log -p -1
+git log --oneline
+git log --pretty=format:"%h - %ad - %an - %s" --date=format:"%d.%m.%Y %H:%M:%S"
+```
+
 # Выводы
 В ходе выполнения лабораторной работы №6 освоены основные команды Git и приобретены навыки работы с удалёнными репозиториями на GitHub. Изучены комманды fork, clone, commit, merge, reset.
 
